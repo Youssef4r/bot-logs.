@@ -1,0 +1,7 @@
+{
+    "token": "MTQ2OTAwNTg1MzQ2MTA1NzYxMA.Gk78Or.P4Teh4tnfV90j6-AEK9PTkZkVdbnWBRtOasfLg",
+    "clientId": "1469005853461057610",
+    "clientSecret": "Eq-M_jOXNkTDo2rfqa8G0hfXD8g1s9hw",
+    "callbackURL": "https://family-bot.onrender.com/auth/discord/callback",
+    "port": 3000
+}
